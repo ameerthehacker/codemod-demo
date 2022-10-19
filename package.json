@@ -1,0 +1,13 @@
+{
+  "name": "big-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ameer Jhan <ameerjhanprof@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jscodeshift": "^0.14.0"
+  },
+  "dependencies": {
+    "@types/jscodeshift": "^0.11.5"
+  }
+}

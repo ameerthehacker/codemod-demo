@@ -3,6 +3,6 @@ import { Input } from 'ui-kit/hrds/input';
 
 export default function MyFancyButton() {
   return (
-    <Input />
+    <Input variant="primary" />
   )
 }
